@@ -1,0 +1,17 @@
+.box_operations {
+  display: flex;
+  justify-content: space-around;
+}
+
+.box_operations_title {
+  font-size: 1.5rem;
+}
+
+.box_operations_value {
+  margin: 2rem 0 0 0;
+  font-size: 1.5rem;
+}
+
+.box_operations_tradingview {
+  height: 45rem;
+}
